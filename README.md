@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Imgur](https://imgur.com/bwdxBEY)
+![Imgur](https://i.imgur.com/bwdxBEY.png)
 
 <!--
 **markmelnic/markmelnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
