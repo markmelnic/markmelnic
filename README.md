@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/MKVL3tQ.png)
+![Imgur](https://i.imgur.com/psYCsEO.png)
 <!--
 **markmelnic/markmelnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
