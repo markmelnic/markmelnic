@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/psYCsEO.png)
+![Imgur](https://i.imgur.com/zebI2qY.png)
 
 <!--
 [![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markmelnic)]
