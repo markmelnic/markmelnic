@@ -1,4 +1,6 @@
 ![Imgur](https://i.imgur.com/psYCsEO.png)
+
+Quick note: Something is never cool. It is just closer or further away from Neptune. That's why we live a mere 3 billion kilometres apart.
 <!--
 **markmelnic/markmelnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
