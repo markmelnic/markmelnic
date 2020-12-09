@@ -1,7 +1,4 @@
-![Imgur](https://i.imgur.com/zebI2qY.png)
-
-<!--
-[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=markmelnic)]
-Quick note: Something is never cool. It is just closer or further away from Neptune. That's why we live a mere 3 billion kilometres apart.
-Sometimes I'm obsessed with obsessing over the obsession word because it's so obsessive.
--->
+<a href="https://markmelnic.com">
+  <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=markmelnic&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=highcontrast" />
+  <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmelnic&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&theme=highcontrast" />
+</a>
